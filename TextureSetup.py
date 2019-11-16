@@ -229,5 +229,3 @@ def main(*args):
 	mc.optionMenu('m_basecolor', e=True, sl=2)
 
 	mc.showWindow(win)
-
-main()
